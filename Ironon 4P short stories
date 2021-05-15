@@ -1,15 +1,15 @@
 {
-  "title": "<Ironon 4P Short Stories>",
-  "description": "<10 sweet-bitter 4 pages short stories by Ironon>",
-  "artist": "<Ironon>",
-  "author": "<Ironon>",
-  "cover": "<https://avt.mkklcdnv6temp.com/37/k/23-1614877381.jpg>",
+  "title": "Ironon 4P Short Stories",
+  "description": "10 sweet-bitter 4 pages short stories by Ironon",
+  "artist": "Ironon",
+  "author": "Ironon",
+  "cover": "<>",
   "chapters": {
-    "<1>": {
-      "title": "<You Scribble Everywhere>",
-      "volume": "<volume number>",
+    "1": {
+      "title": "You Scribble Everywhere",
+      "volume": "1",
       "groups": {
-        "<Senbonzakura Scans>": "/proxy/api/imgur/chapter/<O0XxozK>/"
+        "Senbonzakura Scans": "/proxy/api/imgur/chapter/O0XxozK/"
       },
       "last_updated": "1616368746"
     },
