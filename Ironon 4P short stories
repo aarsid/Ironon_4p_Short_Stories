@@ -3,13 +3,70 @@
   "description": "10 sweet-bitter 4 pages short stories by Ironon",
   "artist": "Ironon",
   "author": "Ironon",
-  "cover": "",
+  "cover": "https://imgur.com/a/ezVnLIr.jpg",
   "chapters": {
     "1": {
       "title": "You Scribble Everywhere",
       "volume": "1",
       "groups": {
         "Senbonzakura Scans": "/proxy/api/imgur/chapter/O0XxozK/"
+      },
+      "last_updated": "1616368746"
+    },
+     "2": {
+      "title": "I fell in (a dull) love",
+      "volume": "1",
+      "groups": {
+        "Senbonzakura Scans": "/proxy/api/imgur/chapter/8hXc7Io/"
+      },
+      "last_updated": "1616368746"
+    },
+     "3": {
+      "title": "You are not Alone",
+      "volume": "1",
+      "groups": {
+        "Senbonzakura Scans": "/proxy/api/imgur/chapter/D7cMTRt/"
+      },
+      "last_updated": "1616368746"
+    },
+     },
+     "4": {
+      "title": "A boy who doesn't understand the meaning of life",
+      "volume": "1",
+      "groups": {
+        "Senbonzakura Scans": "/proxy/api/imgur/chapter/UiyfuI8/"
+      },
+      "last_updated": "1616368746"
+    },
+    "5": {
+      "title": "You Scribble Everywhere [Extra]",
+      "volume": "1",
+      "groups": {
+        "Senbonzakura Scans": "/proxy/api/imgur/chapter/0WaTNx6/"
+      },
+      "last_updated": "1616368746"
+    },
+    "6": {
+      "title": "My Story after your Death",
+      "volume": "1",
+      "groups": {
+        "Senbonzakura Scans": "/proxy/api/imgur/chapter/X07zIAf/"
+      },
+      "last_updated": "1616368746"
+    },
+      "7": {
+      "title": "Getting along with a childhood friend who is too close",
+      "volume": "1",
+      "groups": {
+        "Senbonzakura Scans": "/proxy/api/imgur/chapter/hAYiY4m/"
+      },
+      "last_updated": "1616368746"
+    },
+    "8": {
+      "title": "Boy who doesn't understand the meaning of life [2]",
+      "volume": "1",
+      "groups": {
+        "Senbonzakura Scans": "/proxy/api/imgur/chapter/HyEGfjp/"
       },
       "last_updated": "1616368746"
     }
